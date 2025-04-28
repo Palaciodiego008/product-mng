@@ -56,7 +56,7 @@ Puedes obtener una clave de API gratuita registrándote en [Pixabay](https://pix
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/Palaciodiego008/product-management.git
+   git clone https://github.com/Palaciodiego008/product-mng.git
    cd product-management
    ```
 
